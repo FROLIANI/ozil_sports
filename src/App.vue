@@ -1,16 +1,22 @@
+<script setup>
+import { ref } from "vue";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
+const computedTransitionName = ref("fade"); 
+</script>
+
 <template>
-  <router-view v-slot="{ Component, route }" :key="$route.path">
-    <!-- Use any custom transition and fallback to `fade` -->
-    <transition :name="route.meta.transition || 'fade'" mode="out-in">
+  <router-view v-slot="{ Component }" :key="$route.path">
+    <transition :name="computedTransitionName" mode="out-in">
       <component :is="Component" />
     </transition>
   </router-view>
 </template>
 
-<style lang="scss">
+
+<style>
 @import "@/assets/css/style.css";
-
-
 .cursor-pointer {
   cursor: pointer;
 }
