@@ -127,7 +127,7 @@
                 </div>
               </div>
               <div class="col-md-6 text-end">
-                <p>© Copyright 2024 Ozil-Sports Tz. All rights reserved. Developed by <a href="frolian.solo.co.tz"
+                <p>© Copyright 2025 Ozil-Sports Tz. All rights reserved. Developed by <a href="frolian.solo.co.tz"
                     target="_blank">Frolian Silvan Ernest, Software Developer</a></p>
               </div>
             </div>
