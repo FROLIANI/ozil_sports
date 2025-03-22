@@ -153,12 +153,12 @@
             <div class="col-3 col-lg-auto">
               <ul class="list-unstyled d-flex m-0">
                 <li class="d-none d-lg-block">
-                  <a href="index.html" class="text-uppercase mx-3">Wishlist <span class="wishlist-count">(0)</span>
+                  <a href="index.html" class="text-uppercase mx-3">Wishlist <span class="wishlist-count"></span>
                   </a>
                 </li>
                 <li class="d-none d-lg-block">
                   <a href="index.html" class="text-uppercase mx-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-                    aria-controls="offcanvasCart">Cart <span class="cart-count">(0)</span>
+                    aria-controls="offcanvasCart">Cart <span class="cart-count"></span>
                   </a>
                 </li>
                 <li class="d-lg-none">

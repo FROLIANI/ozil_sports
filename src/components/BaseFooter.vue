@@ -102,10 +102,9 @@
             <div class="col-md-3 col-sm-6">
               <div class="footer-menu footer-menu-004 border-animation-left">
                 <h5 class="widget-title text-uppercase mb-4">Contact Us</h5>
-                <p>Do you have any questions or suggestions? <a href="mailto:contact@yourcompany.com"
-                    class="item-anchor">contact@yourcompany.com</a></p>
-                <p>Do you need support? Give us a call. <a href="tel:+43 720 11 52 78" class="item-anchor">+43 720 11 52
-                    78</a>
+                <p>Do you have any questions or suggestions? <a href="mailto:sports@ozilcolection.com"
+                    class="item-anchor">sports@ozilcolection.com</a></p>
+                <p>Do you need support? Give us a call. <a href="tel:+255624023240" class="item-anchor">+255624023240</a>
                 </p>
               </div>
             </div>
